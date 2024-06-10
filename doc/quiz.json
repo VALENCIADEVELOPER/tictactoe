@@ -1,0 +1,13 @@
+
+[
+    {
+        "Categoria": "Arte y literatura",
+        "Pregunta": "Quien pinto la monalisa",
+        "Respuesta": "Leonardo Da Vinci",
+        "Incorrecta1": "Picasso",
+        "Incorrecta2": "Miguel Angel",
+        "Incorrecta3": "Monet",
+        "imagen": "https://th.bing.com/th/id/R.7865befb5e0d4f06aceecf4e46459dc5?rik=hV6tL0u4vTWKZw&riu=http%3a%2f%2fmonalisa.org%2fwp-content%2fthemes%2fmona-lisa%2fassets%2fplaceholders%2fnew_large.jpg&ehk=IvRIE0eCupB%2beWe9F9eyKKxv8TJt%2bMHpZOPQwMz9dN8%3d&risl=1&pid=ImgRaw&r=0",
+        "objet-fil": "cover"
+    }
+]
